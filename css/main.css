@@ -145,8 +145,8 @@ header{
 
 .banner .content h4 {
     color: rgba(255, 255, 255, 0.5);
-    font-weight: 400;
-    font-size: 36px;
+    font-weight: 250;
+    font-size: 30px;
 }
 
 .banner .content h4 span{
@@ -209,7 +209,8 @@ header{
 
 .banner .carousel-box{
     position: relative;
-    min-width: 900px;
+    min-width: 750px;
+    left: 70px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -222,7 +223,7 @@ header{
 
 .carousel{
     position: relative;
-    height: 550px;
+    height: 500px;
     perspective: 1500px;
 }
 
